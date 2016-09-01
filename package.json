@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/Beckuro/portofolioproject/issues"
   },
-  "homepage": "https://github.com/Beckuro/portofolioproject#readme"
+  "homepage": "https://github.com/Beckuro/portofolioproject#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-mkdir": "^1.0.0",
+    "grunt-responsive-images": "^0.1.9"
+  }
 }
