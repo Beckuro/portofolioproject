@@ -12,7 +12,8 @@ hr {
     padding: 0;
 }
 
-h1, h3 {
+h1,
+h3 {
     font-family: 'Lato', sans-serif;
 }
 
@@ -80,7 +81,6 @@ h1, h3 {
     }
 
 }
-
 @media screen and (max-width: 990px) and (min-width: 521px) {
 
     .text-work {
